@@ -14,6 +14,8 @@ The maximum temperature is 85 degrees fahrenheit
 
 This data is comprised of 1700 entries.
 
+![June](https://user-images.githubusercontent.com/71739110/99909546-3cf9ab80-2d24-11eb-9331-fcec4e1be7c3.png)
+
 
 ## December Datas
 
@@ -24,6 +26,8 @@ The minimum temperature is 56 degrees fahrenheit
 The maximum temperature is 83 degrees fahrenheit
 
 This data is comprised of 1517 entries.
+
+
 
 ## Summary
 
